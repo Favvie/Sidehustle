@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sidehustle/static/css/main.568bec65.chunk.css",
+    "main.js": "/sidehustle/static/js/main.bc732f76.chunk.js",
+    "main.js.map": "/sidehustle/static/js/main.bc732f76.chunk.js.map",
+    "runtime-main.js": "/sidehustle/static/js/runtime-main.2bc7289f.js",
+    "runtime-main.js.map": "/sidehustle/static/js/runtime-main.2bc7289f.js.map",
+    "static/js/2.7ead60c8.chunk.js": "/sidehustle/static/js/2.7ead60c8.chunk.js",
+    "static/js/2.7ead60c8.chunk.js.map": "/sidehustle/static/js/2.7ead60c8.chunk.js.map",
+    "static/js/3.73728392.chunk.js": "/sidehustle/static/js/3.73728392.chunk.js",
+    "static/js/3.73728392.chunk.js.map": "/sidehustle/static/js/3.73728392.chunk.js.map",
+    "index.html": "/sidehustle/index.html",
+    "static/css/main.568bec65.chunk.css.map": "/sidehustle/static/css/main.568bec65.chunk.css.map",
+    "static/js/2.7ead60c8.chunk.js.LICENSE.txt": "/sidehustle/static/js/2.7ead60c8.chunk.js.LICENSE.txt",
+    "static/media/SH_LOGO.f2aa6ef8.jpg": "/sidehustle/static/media/SH_LOGO.f2aa6ef8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bc7289f.js",
+    "static/js/2.7ead60c8.chunk.js",
+    "static/css/main.568bec65.chunk.css",
+    "static/js/main.bc732f76.chunk.js"
+  ]
+}
